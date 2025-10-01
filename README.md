@@ -11,17 +11,10 @@ SCT_SD_1/
 │── Temperature.java # Main source code
 │── README.md # Project documentation
 
-yaml
-Copy code
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-Make sure you have the following installed:
-- **Java JDK 8+**
-- **Git** (for version control)
 
 Check installation:
 
@@ -31,17 +24,14 @@ git --version
 Installation
 Clone this repository:
 
-bash
-Copy code
 git clone https://github.com/USERNAME/REPO_NAME.git
 Navigate into the project directory:
 
 javac Temperature.java
 Run the application:
-
-bash
-
 java Temperature
+```
+
 📖 Features
 Convert temperature from Celsius to Fahrenheit
 
